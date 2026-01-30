@@ -1,0 +1,60 @@
+{
+  "id": "sofia-jack-forest-heroes",
+  "title": "Sofia & Jack: Forest Heroes",
+  "company": "TIRAWA STUDIOS PTE. LTD.",
+  "role": "Unity Developer",
+  "period": "2018-2019",
+  "tags": [
+    "Game",
+    "Mobile",
+    "Unity",
+    "iOS",
+    "Android",
+    "Casual",
+    "Simulation"
+  ],
+  "description": [
+    "Sofia & Jack: Forest Heroes is a casual simulation game where players fight massive wildfires threatening the forest and its wildlife. You tap anywhere on the screen to spray water, upgrade your firehose, and complete missions across multiple maps.",
+    "The story follows Sofia, Jack, and their allies as they protect their homeland after earlier conflicts, now facing one of the worst wildfires in history."
+  ],
+  "responsibilities": [
+    "Implemented and polished gameplay/UI elements for the core firefighting loop (tap-to-spray, stage flow, upgrades).",
+    "Optimized performance and stability for mobile devices (rendering, memory, loading).",
+    "Collaborated with design/QA to balance progression and validate edge cases across stages."
+  ],
+  "highlights": [
+    {
+      "label": "Core mechanic",
+      "value": "Tap anywhere to spray water and push back the fire"
+    },
+    {
+      "label": "Progression",
+      "value": "Upgrade firehose, earn coins/ability points, complete missions"
+    }
+  ],
+  "links": [
+    {
+      "type": "archive",
+      "url": "https://www.taptap.io/app/190585",
+      "label": "TapTap (archived listing)"
+    },
+    {
+      "type": "archive",
+      "url": "https://apkpure.com/sofia-jack-forest-heroes/com.tirawastudios.sjidlegame",
+      "label": "APKPure (archived APK versions)"
+    },
+    {
+      "type": "article",
+      "url": "https://download.com.vn/sofia-jack-forest-heroes-cho-android-149389",
+      "label": "Overview (Download.com.vn)"
+    }
+  ],
+  "nda": {
+    "isNDA": false
+  },
+  "gallery": [
+    "docs/projects/sofia-jack-forest-heroes/gallery/01.jpg",
+    "docs/projects/sofia-jack-forest-heroes/gallery/02.jpg",
+    "docs/projects/sofia-jack-forest-heroes/gallery/03.jpg"
+  ]
+}

@@ -1,0 +1,59 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  @apply bg-slate-50 text-slate-900 antialiased;
+  background-image:
+    radial-gradient(60rem 40rem at 10% -10%, rgba(59, 130, 246, 0.12), transparent 60%),
+    radial-gradient(50rem 30rem at 100% 10%, rgba(15, 23, 42, 0.12), transparent 55%);
+}
+
+body.dark {
+  @apply bg-slate-950 text-slate-100;
+  background-image:
+    radial-gradient(50rem 30rem at 10% -10%, rgba(59, 130, 246, 0.2), transparent 60%),
+    radial-gradient(40rem 30rem at 90% 0%, rgba(15, 23, 42, 0.6), transparent 55%);
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes zoom-in {
+  from {
+    opacity: 0;
+    transform: scale(0.98);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+.animate-in {
+  animation-fill-mode: both;
+}
+
+.fade-in {
+  animation: fade-in 180ms ease-out;
+}
+
+.zoom-in {
+  animation: zoom-in 220ms ease-out;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    @apply bg-slate-950 text-slate-100;
+  }
+}

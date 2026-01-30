@@ -1,0 +1,70 @@
+{
+  "id": "sofia-jack-defenders",
+  "title": "Sofia & Jack: Defenders",
+  "company": "TIRAWA STUDIOS PTE. LTD.",
+  "role": "Unity Developer",
+  "period": "2018-2019",
+  "tags": [
+    "Game",
+    "Mobile",
+    "Unity",
+    "iOS",
+    "Android",
+    "Casual",
+    "Shooter",
+    "Defense"
+  ],
+  "description": [
+    "Sofia & Jack: Defenders is a casual shooter-defense game where you protect Sofia & Jack’s hometown from waves of robot enemies tied to Dr. Wings.",
+    "Players tap/hold and drag to aim and shoot, switch weapons to handle different enemy types, and clear missions across multiple maps while unlocking parts of the story with allies like Scarlet and Jojo."
+  ],
+  "responsibilities": [
+    "Implemented and polished core combat and stage flow (aim/shoot controls, enemy waves, win/lose flow, rewards).",
+    "Built UI screens for progression and upgrades (weapons, collectibles, badges) and ensured smooth player feedback during battles.",
+    "Optimized performance and stability for mobile devices (rendering, memory usage, loading times).",
+    "Collaborated with design/QA to balance difficulty, validate edge cases, and ship updates safely."
+  ],
+  "highlights": [
+    {
+      "label": "Core mechanic",
+      "value": "Tap/hold + drag to aim and shoot; switch weapons for different enemy waves"
+    },
+    {
+      "label": "Content",
+      "value": "Multiple maps with missions, collectibles, and badges"
+    },
+    {
+      "label": "Status",
+      "value": "Removed from official stores (archived listings available)"
+    }
+  ],
+  "links": [
+    {
+      "type": "archive",
+      "url": "https://apkpure.com/sofia-jack-defenders/com.tirawastudios.sjdefender",
+      "label": "APKPure (archived Android listing)"
+    },
+    {
+      "type": "article",
+      "url": "https://appget.com/appli/view/73851/",
+      "label": "AppGet review (notes distribution ended)"
+    },
+    {
+      "type": "video",
+      "url": "https://www.youtube.com/watch?v=CU62COGamOk",
+      "label": "Gameplay video"
+    }
+  ],
+  "nda": {
+    "isNDA": false,
+    "note": ""
+  },
+  "gallery": [
+    "docs/projects/sofia-jack-defenders/gallery/01.jpg",
+    "docs/projects/sofia-jack-defenders/gallery/02.jpg",
+    "docs/projects/sofia-jack-defenders/gallery/03.jpg",
+    "docs/projects/sofia-jack-defenders/gallery/04.jpg",
+    "docs/projects/sofia-jack-defenders/gallery/05.jpg",
+    "docs/projects/sofia-jack-defenders/gallery/06.jpg"
+  ]
+}

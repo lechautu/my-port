@@ -1,0 +1,151 @@
+{
+  "meta": {
+    "ownerName": "Le Chau Tu",
+    "headline": "Product-focused Unity & Frontend engineer building polished, performance-first experiences.",
+    "location": "Ho Chi Minh, Vietnam",
+    "links": {
+      "github": "https://github.com/lechautu",
+      "linkedin": "https://www.linkedin.com/in/tu-le-16b980109/",
+      "email": "mailto:lechautu1993@gmail.com"
+    }
+  },
+  "projects": [
+    {
+      "id": "magictiles3",
+      "path": "projects/magictiles3",
+      "title": "Magic Tiles 3",
+      "company": "Amanotes",
+      "tags": ["Game", "Mobile", "Unity", "iOS", "Android"],
+      "cover": "docs/projects/magictiles3/cover.jpg",
+      "year": 2021,
+      "pinned": true
+    },
+    {
+      "id": "beatblader3d",
+      "path": "projects/beatblader3d",
+      "title": "Beat Blader 3D: EDM Music Race",
+      "company": "Amanotes",
+      "tags": [
+        "Game",
+        "Mobile",
+        "Unity",
+        "iOS",
+        "Android",
+        "Rhythm",
+        "Runner"
+      ],
+      "cover": "docs/projects/beatblader3d/cover.jpg",
+      "year": 2020,
+      "pinned": false
+    },
+    {
+      "id": "pawz-meditate-together",
+      "path": "projects/pawz-meditate-together",
+      "title": "Pawz: Meditate Together",
+      "company": "Bootloader Studio",
+      "tags": [
+        "App",
+        "VisionOS",
+        "Apple Vision Pro",
+        "Unity",
+        "Mixed Reality",
+        "Wellness"
+      ],
+      "cover": "docs/projects/pawz-meditate-together/cover.jpg",
+      "year": 2025,
+      "pinned": true
+    },
+    {
+      "id": "sofia-jack-forest-heroes",
+      "path": "projects/sofia-jack-forest-heroes",
+      "title": "Sofia & Jack: Forest Heroes",
+      "company": "TIRAWA STUDIOS PTE. LTD.",
+      "tags": [
+        "Game",
+        "Mobile",
+        "Unity",
+        "iOS",
+        "Android",
+        "Casual",
+        "Simulation"
+      ],
+      "cover": "docs/projects/sofia-jack-forest-heroes/cover.jpg",
+      "year": 2018,
+      "pinned": false
+    },
+    {
+      "id": "sofia-jack-defenders",
+      "path": "projects/sofia-jack-defenders",
+      "title": "Sofia & Jack: Defenders",
+      "company": "TIRAWA STUDIOS PTE. LTD.",
+      "tags": [
+        "Game",
+        "Mobile",
+        "Unity",
+        "iOS",
+        "Android",
+        "Casual",
+        "Shooter",
+        "Defense"
+      ],
+      "cover": "docs/projects/sofia-jack-defenders/cover.jpg",
+      "year": 2018,
+      "pinned": false
+    },
+    {
+      "id": "sofia-jack-pets-evolution",
+      "path": "projects/sofia-jack-pets-evolution",
+      "title": "Sofia & Jack: Pets Evolution",
+      "company": "TIRAWA STUDIOS PTE. LTD.",
+      "tags": [
+        "Game",
+        "Mobile",
+        "Unity",
+        "iOS",
+        "Android",
+        "Casual",
+        "Merge",
+        "Evolution"
+      ],
+      "cover": "docs/projects/sofia-jack-pets-evolution/cover.jpg",
+      "year": 2018,
+      "pinned": false
+    },
+    {
+      "id": "mech-rush",
+      "path": "projects/mech-rush",
+      "title": "Mech Rush",
+      "company": "Booty Bay Limited",
+      "tags": [
+        "Game",
+        "Mobile",
+        "iOS",
+        "Unity",
+        "Endless Runner",
+        "Action",
+        "Mecha"
+      ],
+      "cover": "docs/projects/mech-rush/cover.jpg",
+      "year": 2015,
+      "pinned": false
+    },
+    {
+      "id": "bloomer",
+      "path": "projects/bloomer",
+      "title": "Bloomer",
+      "company": "Bloomer (Vietnam)",
+      "tags": [
+        "App",
+        "Social",
+        "Mobile",
+        "Vietnam",
+        "Photo Sharing",
+        "Contest",
+        "Community"
+      ],
+      "cover": "docs/projects/bloomer/cover.jpg",
+      "year": 2016,
+      "pinned": false
+    }
+  ]
+}

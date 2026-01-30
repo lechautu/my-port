@@ -1,0 +1,67 @@
+{
+  "id": "mech-rush",
+  "title": "Mech Rush",
+  "company": "Booty Bay Limited",
+  "role": "Unity Developer",
+  "period": "2015-2016",
+  "tags": [
+    "Game",
+    "Mobile",
+    "iOS",
+    "Unity",
+    "Endless Runner",
+    "Action",
+    "Mecha"
+  ],
+  "description": [
+    "Mech Rush is a mech-themed endless runner where players run through different worlds/levels, avoid obstacles, fight enemies, and face bosses to push further each run.",
+    "The game stands out with strong personalization: players can customize the mech’s look (including body structure and color) and upgrade weapons/body parts, alongside power-ups for better performance.",
+    "This title has been removed from official stores; archived reviews and references remain available online."
+  ],
+  "responsibilities": [
+    "Built/maintained configuration-friendly UI components to support content iteration (world/level progression, upgrades, power-ups).",
+    "Optimized performance and stability on mobile devices (loading, memory, runtime smoothness).",
+    "Worked with QA/design to validate edge cases, tune difficulty curves, and ship stable updates."
+  ],
+  "highlights": [
+    {
+      "label": "Genre",
+      "value": "Mech Endless Runner (Action)"
+    },
+    {
+      "label": "Key features",
+      "value": "Worlds/levels, bosses, mech customization, upgrades, power-ups"
+    },
+    {
+      "label": "Status",
+      "value": "Removed from official stores (archived sources available)"
+    }
+  ],
+  "links": [
+    {
+      "type": "archive",
+      "url": "https://appreviewtoday.com/?page=post%2Fbattle-to-victory-in-mech-rush&view=desktop",
+      "label": "Archived review (AppReviewToday)"
+    },
+    {
+      "type": "archive",
+      "url": "https://www.techwibe.com/mech-rush-game-iphone-review/",
+      "label": "Archived review (TechWibe)"
+    },
+    {
+      "type": "archive",
+      "url": "https://apps.apple.com/vn/app/mech-rush/id1048522024",
+      "label": "App Store (may be unavailable)"
+    }
+  ],
+  "nda": {
+    "isNDA": false,
+    "note": ""
+  },
+  "gallery": [
+    "docs/projects/mech-rush/gallery/01.jpg",
+    "docs/projects/mech-rush/gallery/02.jpg",
+    "docs/projects/mech-rush/gallery/03.jpg",
+    "docs/projects/mech-rush/gallery/04.jpg"
+  ]
+}
