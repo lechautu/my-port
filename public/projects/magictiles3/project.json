@@ -1,0 +1,66 @@
+{
+    "id": "magictiles3",
+    "title": "Magic Tiles 3",
+    "studio": "Amanotes",
+    "type": "Mobile Rhythm Game",
+    "period": {
+        "from": "2021-03",
+        "to": "2025-05"
+    },
+    "platforms": [
+        "iOS",
+        "Android"
+    ],
+    "roleTitle": "Unity Developer",
+    "summary": "Fast-paced mobile rhythm game with millions of downloads worldwide.",
+    "description": "Magic Tiles 3 is a fast-paced mobile rhythm game where players tap falling tiles in sync with music to build combos, chase high scores, and unlock new songs.\n\nI worked on player-facing features and live-ops improvements, focusing on UI/UX polish, performance, and reliable event/analytics instrumentation.",
+    "responsibilities": [
+        "Owned the end-to-end implementation of multiple UI-driven features (menus, progression, events) using Unity UI workflows and reusable UI components.",
+        "Improved runtime performance and stability by optimizing UI rendering, memory usage, and asset loading patterns for mid/low-end devices.",
+        "Implemented and maintained analytics events and experiment hooks to support product iteration and measure feature impact.",
+        "Collaborated with product, designers, QA, and backend teams to ship updates safely, validate edge cases, and ensure smooth live operations."
+    ],
+    "tech": [
+        "Unity",
+        "C#",
+        "DOTween",
+        "Addressables",
+        "Firebase"
+    ],
+    "highlights": [
+        {
+            "label": "Focus areas",
+            "value": "UI/UX, LiveOps, Performance"
+        },
+        {
+            "label": "Platforms",
+            "value": "iOS / Android"
+        }
+    ],
+    "links": [
+        {
+            "label": "Google Play Store",
+            "url": "https://play.google.com/store/apps/details?id=com.youmusic.magictiles"
+        },
+        {
+            "label": "Apple App Store",
+            "url": "https://apps.apple.com/us/app/magic-tiles-3-piano-game/id1443446174"
+        }
+    ],
+    "media": {
+        "cover": "cover.jpg",
+        "gallery": [
+            "gallery/01.jpg",
+            "gallery/02.jpg",
+            "gallery/03.jpg"
+        ]
+    },
+    "tags": [
+        "Rhythm",
+        "Music",
+        "Mobile",
+        "Live-ops"
+    ],
+    "featured": true,
+    "order": 90
+}

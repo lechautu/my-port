@@ -1,0 +1,65 @@
+{
+    "id": "mech-rush",
+    "title": "Mech Rush",
+    "studio": "Booty Bay Limited",
+    "type": "Mech Endless Runner",
+    "period": {
+        "from": "2015-01",
+        "to": "2016-12"
+    },
+    "platforms": [
+        "iOS"
+    ],
+    "roleTitle": "Unity Developer",
+    "summary": "Mech-themed endless runner with customization, upgrades, and boss battles.",
+    "description": "Mech Rush is a mech-themed endless runner where players run through different worlds/levels, avoid obstacles, fight enemies, and face bosses to push further each run.\n\nThe game stands out with strong personalization: players can customize the mech's look (including body structure and color) and upgrade weapons/body parts, alongside power-ups for better performance.\n\nThis title has been removed from official stores; archived reviews and references remain available online.",
+    "responsibilities": [
+        "Built/maintained configuration-friendly UI components to support content iteration (world/level progression, upgrades, power-ups).",
+        "Optimized performance and stability on mobile devices (loading, memory, runtime smoothness).",
+        "Worked with QA/design to validate edge cases, tune difficulty curves, and ship stable updates."
+    ],
+    "tech": [
+        "Unity",
+        "C#"
+    ],
+    "highlights": [
+        {
+            "label": "Genre",
+            "value": "Mech Endless Runner (Action)"
+        },
+        {
+            "label": "Key features",
+            "value": "Bosses, mech customization, upgrades"
+        },
+        {
+            "label": "Status",
+            "value": "Removed from stores (archived)"
+        }
+    ],
+    "links": [
+        {
+            "label": "Archived review (AppReviewToday)",
+            "url": "https://appreviewtoday.com/?page=post%2Fbattle-to-victory-in-mech-rush&view=desktop"
+        },
+        {
+            "label": "Archived review (TechWibe)",
+            "url": "https://www.techwibe.com/mech-rush-game-iphone-review/"
+        }
+    ],
+    "media": {
+        "cover": "cover.jpg",
+        "gallery": [
+            "gallery/01.jpg",
+            "gallery/02.jpg",
+            "gallery/03.jpg",
+            "gallery/04.jpg"
+        ]
+    },
+    "tags": [
+        "Endless Runner",
+        "Action",
+        "Mecha"
+    ],
+    "featured": false,
+    "order": 10
+}

@@ -1,0 +1,66 @@
+{
+    "id": "bloomer",
+    "title": "Bloomer",
+    "studio": "Bloomer (Vietnam)",
+    "type": "Social Entertainment App",
+    "period": {
+        "from": "2016-01",
+        "to": "2018-04"
+    },
+    "platforms": [
+        "iOS",
+        "Android"
+    ],
+    "roleTitle": "Mobile Developer",
+    "summary": "Vietnam-based social entertainment app focused on photo sharing and themed contests.",
+    "description": "Bloomer was a Vietnam-based social entertainment app focused on photo sharing and discovery, built around themed contests and community rankings.\n\nUsers could join country/city and theme-based contests, upload photos, and climb leaderboards by receiving \"Flowers\" (a social currency) to boost rankings and engagement.\n\nThe platform also partnered with brands and media projects to run sponsored contests and casting campaigns.",
+    "responsibilities": [
+        "Implemented and maintained key client-side features for the photo feed, contest participation flow, and leaderboard experiences.",
+        "Built UI screens and reusable components for contest browsing, photo submission, ranking states, and user profile presentation.",
+        "Improved performance and stability for media-heavy screens (image loading, scrolling smoothness, memory usage) on mobile devices.",
+        "Collaborated with product/ops to support sponsored contests and time-bound events, ensuring reliable rollout and safe iteration."
+    ],
+    "tech": [
+        "Mobile",
+        "iOS",
+        "Android"
+    ],
+    "highlights": [
+        {
+            "label": "Launch",
+            "value": "Officially launched Oct 2017"
+        },
+        {
+            "label": "Core loop",
+            "value": "Post photos → receive Flowers → climb rankings"
+        },
+        {
+            "label": "Status",
+            "value": "Discontinued (Feb 2019)"
+        }
+    ],
+    "links": [
+        {
+            "label": "Dân trí coverage",
+            "url": "https://dantri.com.vn/doi-song/gold-winners-sulli-va-ron-vinh-du-hi-han-quoc-cung-doan-phim-thang-nam-ruc-ro-20180605151821296.htm"
+        },
+        {
+            "label": "VnExpress coverage",
+            "url": "https://vnexpress.net/phim-hai-tet-tao-quay-phieu-luu-ky-casting-dien-vien-3767625.html"
+        }
+    ],
+    "media": {
+        "cover": "cover.jpg",
+        "gallery": [
+            "gallery/01.jpg"
+        ]
+    },
+    "tags": [
+        "Social",
+        "Photo Sharing",
+        "Contest",
+        "Community"
+    ],
+    "featured": false,
+    "order": 20
+}

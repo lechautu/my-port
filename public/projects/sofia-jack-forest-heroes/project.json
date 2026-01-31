@@ -1,0 +1,61 @@
+{
+    "id": "sofia-jack-forest-heroes",
+    "title": "Sofia & Jack: Forest Heroes",
+    "studio": "TIRAWA STUDIOS PTE. LTD.",
+    "type": "Casual Simulation Game",
+    "period": {
+        "from": "2018-01",
+        "to": "2019-12"
+    },
+    "platforms": [
+        "iOS",
+        "Android"
+    ],
+    "roleTitle": "Unity Developer",
+    "summary": "Casual simulation game where players fight wildfires threatening the forest and wildlife.",
+    "description": "Sofia & Jack: Forest Heroes is a casual simulation game where players fight massive wildfires threatening the forest and its wildlife. You tap anywhere on the screen to spray water, upgrade your firehose, and complete missions across multiple maps.\n\nThe story follows Sofia, Jack, and their allies as they protect their homeland after earlier conflicts, now facing one of the worst wildfires in history.",
+    "responsibilities": [
+        "Implemented and polished gameplay/UI elements for the core firefighting loop (tap-to-spray, stage flow, upgrades).",
+        "Optimized performance and stability for mobile devices (rendering, memory, loading).",
+        "Collaborated with design/QA to balance progression and validate edge cases across stages."
+    ],
+    "tech": [
+        "Unity",
+        "C#"
+    ],
+    "highlights": [
+        {
+            "label": "Core mechanic",
+            "value": "Tap anywhere to spray water and push back the fire"
+        },
+        {
+            "label": "Progression",
+            "value": "Upgrade firehose, earn coins/ability points, complete missions"
+        }
+    ],
+    "links": [
+        {
+            "label": "TapTap (archived)",
+            "url": "https://www.taptap.io/app/190585"
+        },
+        {
+            "label": "APKPure (archived)",
+            "url": "https://apkpure.com/sofia-jack-forest-heroes/com.tirawastudios.sjidlegame"
+        }
+    ],
+    "media": {
+        "cover": "cover.jpg",
+        "gallery": [
+            "gallery/01.jpg",
+            "gallery/02.jpg",
+            "gallery/03.jpg"
+        ]
+    },
+    "tags": [
+        "Casual",
+        "Simulation",
+        "Firefighting"
+    ],
+    "featured": false,
+    "order": 40
+}

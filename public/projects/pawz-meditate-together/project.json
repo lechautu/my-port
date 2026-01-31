@@ -1,0 +1,63 @@
+{
+    "id": "pawz-meditate-together",
+    "title": "Pawz: Meditate Together",
+    "studio": "Bootloader Studio",
+    "type": "Wellness App",
+    "period": {
+        "from": "2025-01",
+        "to": null
+    },
+    "platforms": [
+        "visionOS"
+    ],
+    "roleTitle": "Unity / visionOS Developer",
+    "summary": "Character-driven mindfulness experience on Apple Vision Pro with a Pixar-style pet companion.",
+    "description": "Pawz is a character-driven mindfulness experience on Apple Vision Pro, featuring a Pixar-style pet companion that helps users relax, focus, or fall asleep with minimal distractions.\n\nIt supports both Shared Space and Full Space modes, surrounding users with calming environments while the companion reacts to breathing and guided sessions.\n\nUsers can personalize the experience by decorating the pet's space and interacting with it through gentle, playful moments.",
+    "responsibilities": [
+        "Implemented core meditation session flows (Relax / Focus / Sleep) with configurable duration and consistent in-session feedback.",
+        "Built interactive companion behaviors and environmental presentation tuned for Vision Pro experiences (Shared Space vs Full Space).",
+        "Integrated customization systems for decorating the pet's space and equipping cosmetic items via an in-app shop/inventory flow.",
+        "Collaborated on UX polish and performance stability for immersive rendering and smooth interaction on visionOS."
+    ],
+    "tech": [
+        "Unity",
+        "C#",
+        "visionOS",
+        "ARKit",
+        "RealityKit",
+        "PolySpatial"
+    ],
+    "highlights": [
+        {
+            "label": "Platform",
+            "value": "visionOS (Apple Vision Pro)"
+        },
+        {
+            "label": "Experience",
+            "value": "Pet companion + mindfulness sessions"
+        }
+    ],
+    "links": [
+        {
+            "label": "App Store (visionOS)",
+            "url": "https://apps.apple.com/us/app/pawz-meditate-together/id6593665132"
+        }
+    ],
+    "media": {
+        "cover": "cover.jpg",
+        "gallery": [
+            "gallery/01.jpg",
+            "gallery/02.jpg",
+            "gallery/03.jpg"
+        ]
+    },
+    "tags": [
+        "visionOS",
+        "Apple Vision Pro",
+        "Unity",
+        "Mixed Reality",
+        "Wellness"
+    ],
+    "featured": true,
+    "order": 100
+}

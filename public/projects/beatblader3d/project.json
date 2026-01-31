@@ -1,0 +1,70 @@
+{
+    "id": "beatblader3d",
+    "title": "Beat Blader 3D: EDM Music Race",
+    "studio": "Amanotes",
+    "type": "Rhythm Runner",
+    "period": {
+        "from": "2020-01",
+        "to": "2021-03"
+    },
+    "platforms": [
+        "iOS",
+        "Android"
+    ],
+    "roleTitle": "Unity Developer",
+    "summary": "Neon-styled rhythm runner where players slash music cubes to the beat.",
+    "description": "Beat Blader 3D is a neon-styled rhythm runner where players control a blade to slash incoming music cubes to the beat, dodge obstacles, and progress through energetic EDM tracks.\n\nThe experience combines simple swipe controls with satisfying visual feedback, song-driven pacing, and progression systems that keep the run-to-run gameplay engaging.",
+    "responsibilities": [
+        "Implemented and polished gameplay and UI features for the rhythm-runner loop (input, timing feedback, score/combo presentation, menus).",
+        "Built reusable UI components and configuration-driven content hooks to support live updates and faster iteration.",
+        "Optimized performance and stability on mid/low-end devices (rendering, memory, asset loading), and helped reduce UI-related hitches during gameplay.",
+        "Collaborated with designers, QA, and backend/product stakeholders to validate edge cases, ship updates safely, and maintain live operations quality."
+    ],
+    "tech": [
+        "Unity",
+        "C#",
+        "DOTween",
+        "Firebase"
+    ],
+    "highlights": [
+        {
+            "label": "Genre",
+            "value": "Rhythm Runner / Music Arcade"
+        },
+        {
+            "label": "Core mechanic",
+            "value": "Slash music cubes, dodge obstacles"
+        },
+        {
+            "label": "Platforms",
+            "value": "iOS / Android"
+        }
+    ],
+    "links": [
+        {
+            "label": "App Store",
+            "url": "https://apps.apple.com/us/app/beat-blader-3d/id1495142212"
+        },
+        {
+            "label": "Google Play",
+            "url": "https://play.google.com/store/apps/details?id=com.ihd.beatsaber"
+        }
+    ],
+    "media": {
+        "cover": "cover.jpg",
+        "gallery": [
+            "gallery/01.jpg",
+            "gallery/02.jpg",
+            "gallery/03.jpg",
+            "gallery/04.jpg"
+        ]
+    },
+    "tags": [
+        "Rhythm",
+        "Runner",
+        "Music",
+        "EDM"
+    ],
+    "featured": false,
+    "order": 80
+}

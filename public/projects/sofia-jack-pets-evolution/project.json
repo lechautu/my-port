@@ -1,0 +1,67 @@
+{
+    "id": "sofia-jack-pets-evolution",
+    "title": "Sofia & Jack: Pets Evolution",
+    "studio": "TIRAWA STUDIOS PTE. LTD.",
+    "type": "Casual Merge/Evolution",
+    "period": {
+        "from": "2018-01",
+        "to": "2019-12"
+    },
+    "platforms": [
+        "iOS",
+        "Android"
+    ],
+    "roleTitle": "Unity Developer",
+    "summary": "Casual evolution/merge-style game where players rescue and evolve adorable animal cubs.",
+    "description": "Sofia & Jack: Pets Evolution is a casual evolution/merge-style game where players rescue and evolve adorable animal cubs into stronger forms, unlocking new species as they progress through multiple areas and maps.\n\nThe game focuses on collection and evolution-driven progression, with quality-of-life features such as auto-merge mechanics introduced in later updates.\n\nThis title has been removed from official stores; archived listings and gameplay videos are still available online.",
+    "responsibilities": [
+        "Implemented and polished UI and gameplay flows for the core evolution loop (collect, merge/evolve, unlock new species, progression through maps).",
+        "Built configuration-driven systems to support content iteration (areas/maps progression, rewards, economy tuning).",
+        "Optimized performance and stability on mobile devices (loading, memory usage, and runtime smoothness).",
+        "Collaborated with design/QA to validate progression balance and edge cases across devices."
+    ],
+    "tech": [
+        "Unity",
+        "C#"
+    ],
+    "highlights": [
+        {
+            "label": "Gameplay loop",
+            "value": "Rescue & evolve pets; unlock new species"
+        },
+        {
+            "label": "Content scale",
+            "value": "4 areas / 20 maps"
+        },
+        {
+            "label": "Status",
+            "value": "Removed from stores (archived)"
+        }
+    ],
+    "links": [
+        {
+            "label": "APKPure (archived)",
+            "url": "https://apkpure.com/sofia-jack-pets-evolution/com.tirawastudios.sjpetsevo"
+        },
+        {
+            "label": "YouTube playlist",
+            "url": "https://www.youtube.com/playlist?list=PLJZAQ9cOQgkW0JGNrlklUcZoh-_pazSNs"
+        }
+    ],
+    "media": {
+        "cover": "cover.jpg",
+        "gallery": [
+            "gallery/01.jpg",
+            "gallery/02.jpg",
+            "gallery/03.jpg",
+            "gallery/04.jpg"
+        ]
+    },
+    "tags": [
+        "Casual",
+        "Merge",
+        "Evolution"
+    ],
+    "featured": false,
+    "order": 30
+}

@@ -1,0 +1,69 @@
+{
+    "id": "sofia-jack-defenders",
+    "title": "Sofia & Jack: Defenders",
+    "studio": "TIRAWA STUDIOS PTE. LTD.",
+    "type": "Casual Shooter Defense",
+    "period": {
+        "from": "2018-01",
+        "to": "2019-12"
+    },
+    "platforms": [
+        "iOS",
+        "Android"
+    ],
+    "roleTitle": "Unity Developer",
+    "summary": "Casual shooter-defense game protecting Sofia & Jack's hometown from robot enemies.",
+    "description": "Sofia & Jack: Defenders is a casual shooter-defense game where you protect Sofia & Jack's hometown from waves of robot enemies tied to Dr. Wings.\n\nPlayers tap/hold and drag to aim and shoot, switch weapons to handle different enemy types, and clear missions across multiple maps while unlocking parts of the story with allies like Scarlet and Jojo.",
+    "responsibilities": [
+        "Implemented and polished core combat and stage flow (aim/shoot controls, enemy waves, win/lose flow, rewards).",
+        "Built UI screens for progression and upgrades (weapons, collectibles, badges) and ensured smooth player feedback during battles.",
+        "Optimized performance and stability for mobile devices (rendering, memory usage, loading times).",
+        "Collaborated with design/QA to balance difficulty, validate edge cases, and ship updates safely."
+    ],
+    "tech": [
+        "Unity",
+        "C#"
+    ],
+    "highlights": [
+        {
+            "label": "Core mechanic",
+            "value": "Tap/hold + drag to aim and shoot"
+        },
+        {
+            "label": "Content",
+            "value": "Multiple maps with missions, collectibles, and badges"
+        },
+        {
+            "label": "Status",
+            "value": "Removed from stores (archived)"
+        }
+    ],
+    "links": [
+        {
+            "label": "APKPure (archived)",
+            "url": "https://apkpure.com/sofia-jack-defenders/com.tirawastudios.sjdefender"
+        },
+        {
+            "label": "Gameplay video",
+            "url": "https://www.youtube.com/watch?v=CU62COGamOk"
+        }
+    ],
+    "media": {
+        "cover": "cover.jpg",
+        "gallery": [
+            "gallery/01.jpg",
+            "gallery/02.jpg",
+            "gallery/03.jpg",
+            "gallery/04.jpg",
+            "gallery/05.jpg",
+            "gallery/06.jpg"
+        ]
+    },
+    "tags": [
+        "Casual",
+        "Shooter",
+        "Defense"
+    ],
+    "featured": false,
+    "order": 35
+}

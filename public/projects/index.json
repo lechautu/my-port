@@ -1,0 +1,37 @@
+{
+    "version": 1,
+    "projects": [
+        {
+            "id": "pawz-meditate-together",
+            "path": "projects/pawz-meditate-together/project.json"
+        },
+        {
+            "id": "magictiles3",
+            "path": "projects/magictiles3/project.json"
+        },
+        {
+            "id": "beatblader3d",
+            "path": "projects/beatblader3d/project.json"
+        },
+        {
+            "id": "sofia-jack-forest-heroes",
+            "path": "projects/sofia-jack-forest-heroes/project.json"
+        },
+        {
+            "id": "sofia-jack-defenders",
+            "path": "projects/sofia-jack-defenders/project.json"
+        },
+        {
+            "id": "sofia-jack-pets-evolution",
+            "path": "projects/sofia-jack-pets-evolution/project.json"
+        },
+        {
+            "id": "bloomer",
+            "path": "projects/bloomer/project.json"
+        },
+        {
+            "id": "mech-rush",
+            "path": "projects/mech-rush/project.json"
+        }
+    ]
+}
